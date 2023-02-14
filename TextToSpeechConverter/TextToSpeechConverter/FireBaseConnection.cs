@@ -33,7 +33,7 @@ namespace TextToSpeechConverter
 
             try
             {
-                await fbc.Child("Reg_Pojo").PostAsync(obj);
+                await fbc.Child("RegisterPojo").PostAsync(obj);
                 MessageBox.Show("Registration done !");
                 textBox1.Text = "";
                 textBox2.Text = "";
@@ -112,6 +112,34 @@ namespace TextToSpeechConverter
                 e.Handled = true;
                 MessageBox.Show("Only Digit allowed");
             }
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+            loginusingfirebase login = new loginusingfirebase();
+            login.Show();
+            this.Hide();
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void closebtn_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+
         }
     }
 }

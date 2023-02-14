@@ -15,7 +15,7 @@ namespace TextToSpeechConverter
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FireBaseConnection());
+            Application.Run(new loginusingfirebase());
         }
     }
 }

@@ -17,3 +17,4 @@ C:\Users\admin\Downloads\TextToSpeechConverter\TextToSpeechConverter\TextToSpeec
 C:\Users\admin\Downloads\TextToSpeechConverter\TextToSpeechConverter\TextToSpeechConverter\bin\Debug\Newtonsoft.Json.xml
 C:\Users\admin\Downloads\TextToSpeechConverter\TextToSpeechConverter\TextToSpeechConverter\bin\Debug\Newtonsoft.Json.Bson.pdb
 C:\Users\admin\Downloads\TextToSpeechConverter\TextToSpeechConverter\TextToSpeechConverter\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\admin\Downloads\TextToSpeechConverter\TextToSpeechConverter\TextToSpeechConverter\obj\Debug\TextToSpeechConverter.loginusingfirebase.resources
